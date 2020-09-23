@@ -7,7 +7,10 @@
 }
 
 body {
-    background-color: var(--primary-color);
+    background-image: url(imagens/coffee_1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
     font-size: 15px;
     font-family: Lato, sans setif;
 }
@@ -60,7 +63,7 @@ body {
     font-weight: bold;
     display: block;
     margin: 30px auto;
-    background: var(--primary-color);
+    background: #D39E6A;
     border-radius: 5px;
     width: 200px;
     height: 50px;
